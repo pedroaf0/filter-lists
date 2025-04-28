@@ -1,0 +1,6 @@
+www.ident.com.br###popOverlay
+www.ident.com.br##.xToasterEnter.xToasterTypeDefault.xToasterPositionMiddle.xThemeBright.xToasterDialog.xToaster
+www.ident.com.br###popUIBlock
+
+*://www.ident.com.br/ajax/Videos/RegisterProgress?chapterID=*
+
